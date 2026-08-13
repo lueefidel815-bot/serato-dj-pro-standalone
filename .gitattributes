@@ -1,0 +1,13 @@
+# Normalize line endings
+# Do not edit manually
+*.min.css linguist-generated
+*.ts linguist-detectable
+*.htm linguist-vendored
+*.svg text
+*.json linguist-detectable=false
+dist/* linguist-vendored
+public/index.html linguist-vendored
+src/*.ts linguist-detectable
+*.md linguist-documentation
+
+# eof 964bd711
